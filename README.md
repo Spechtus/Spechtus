@@ -10,7 +10,7 @@
 I’m passionate about building **scalable AI systems** that bridge the gap between research and production.  
 Over the past years, I’ve worked on **recommendation engines, chatbots, real-time analytics pipelines, and trend detection systems** – always with the goal of turning data into **impactful, user-facing products**.  
 
-Currently I’m focusing on:  
+Currently I’m working on:  
 - 🧠 Developing & deploying **personalized recommendation systems**  
 - 🤖 Building **chatbots and NLP pipelines** to automate support & marketing workflows  
 - 🔄 Designing **CI/CD pipelines for ML models** with automated retraining & monitoring  
