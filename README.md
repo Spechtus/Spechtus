@@ -1,7 +1,7 @@
 # Hi, I'm Lukas 👋  
 
 💻 **Machine Learning Engineer | Data Scientist | Data Engineer**  
-🎓 M. Sc. Data Engineering & Analytics (TU München) | B. Sc. Computer Science (TU Darmstadt)  
+🎓 M. Sc. Data Engineering & Analytics (TU München) | Alumni of TU Darmstadt 
 📍 Munich, Germany  
 
 ---
