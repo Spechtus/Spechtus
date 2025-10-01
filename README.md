@@ -10,7 +10,7 @@
 I’m passionate about building **scalable AI systems** that bridge the gap between research and production.  
 Over the past years, I’ve worked on **recommendation engines, chatbots, real-time analytics pipelines, and trend detection systems** – always with the goal of turning data into **impactful, user-facing products**.  
 
-Currently at **B1 SmartTV GmbH**, I’m focusing on:  
+Currently I’m focusing on:  
 - 🧠 Developing & deploying **personalized recommendation systems**  
 - 🤖 Building **chatbots and NLP pipelines** to automate support & marketing workflows  
 - 🔄 Designing **CI/CD pipelines for ML models** with automated retraining & monitoring  
@@ -28,11 +28,8 @@ Currently at **B1 SmartTV GmbH**, I’m focusing on:
 ---
 
 ## 🌍 Projects & Experience
-- 🏗️ **Recommendation Engine** – built from scratch, boosting personalization & engagement  
-- 🤖 **Chatbots (internal + external)** – enabling natural language dashboards & reducing support workload  
-- 🌐 **User Tracking & ETL Pipelines** – designed 15+ scalable data streams (CRM, Ads, App Stores, Payments…)  
-- 📈 **Global Trend Detection System** – dynamically adapted app features across countries  
-- ☁️ **Cloud Transformation** – led migration from on-premises infrastructure to a cloud-native architecture  
+- 💍 **[vow.ing](https://vow.ing)** – a published wedding planning project bringing tech into event organization
+- 📈 **Balanced News** – Built a global dynamic news crawler that detects negative news and enriches it with positive, fact-based counterpoints to balance sentiment
 
 ---
 
